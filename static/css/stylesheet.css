@@ -1,0 +1,57 @@
+h1 {
+    font-family: "Trebuchet MS", Arial, monospace;
+    font-weight: bold;
+    background-color: ghostwhite;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    margin-bottom: 20px !important;
+}
+
+.reserve {
+    background-color: darkorchid;
+    color: skyblue;
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.release {
+    background-color: darkorchid;
+    color: white;
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+#register-button{
+    background-color: darkorchid;
+    color: white;
+}
+
+#go-back{
+    background-color: darkorchid;
+    color: white;
+}
+
+#register{
+    background-color: darkorchid;
+    color: white;
+}
+
+#login-button {
+    background-color: darkorchid;
+    color: white;
+}
+
+.reservation {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
+    font-size: medium;
+    margin-bottom: 20px !important;
+}
+#logout {
+    background-color: black;
+    color: white;
+}
